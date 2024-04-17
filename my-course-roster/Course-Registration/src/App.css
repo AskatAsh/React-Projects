@@ -1,0 +1,23 @@
+#root {
+  max-width: 1366px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+body{
+  background-color: #F3F3F3;
+  font-family: 'Inter', sans-serif;
+}
+h1, h2, h3, h4{
+  color: #1C1B1B;
+}
+p, span, li{
+  color: rgba(28, 27, 27, 0.60);
+}
+.icon_style{
+  color: #1C1B1B;
+  font-size: 24px;
+}
+.grid-responsive{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 300px));
+}

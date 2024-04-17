@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/cyRjjJs/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "description": "Delve into the world of C programming and its applications. This course provides a solid foundation for beginners.",
+      "price": 49.99,
+      "duration": 1
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/QYSfZv4/Rectangle-2-4.png",
+      "title": "C++ for DSA and Algorithms",
+      "description": "Master C++ for data structures and algorithms, equipping yourself with essential skills for solving complex problems efficiently.",
+      "price": 59.99,
+      "duration": 2
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/z2LVw46/Rectangle-2-3.png",
+      "title": "Algorithms Explained",
+      "description": "Embark on a journey through the fascinating world of algorithms and their role in computer science and problem-solving strategies.",
+      "price": 39.99,
+      "duration": 10
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/kX9q7PB/Rectangle-2-1.png",
+      "title": "Database Design (MySQL)",
+      "description": "Uncover the principles of effective database design and management, ensuring optimal data storage and retrieval solutions.",
+      "price": 54.99,
+      "duration": 5
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/2khmJxg/Rectangle-2.png",
+      "title": "Introduction OOP with Python",
+      "description": "Immerse yourself in the world of object-oriented programming with Python, building scalable and maintainable software applications.",
+      "price": 44.99,
+      "duration": 3
+    },
+    {
+      "id": 6,
+      "cover_img": "https://i.ibb.co/FKjDSLn/Rectangle-3-1.png",
+      "title": "Cloud Computing Essentials",
+      "description": "Explore the essentials of cloud computing and harness the power of cloud services for your projects and applications.",
+      "price": 69.99,
+      "duration": 4
+    },
+    {
+      "id": 7,
+      "cover_img": "https://i.ibb.co/qM9SjSr/Rectangle-2-6.png",
+      "title": "Mastering Problem Solving",
+      "description": "Hone your problem-solving skills with practical examples and strategies, empowering you to tackle challenges with confidence.",
+      "price": 34.99,
+      "duration": 2
+    },
+    {
+      "id": 8,
+      "cover_img": "https://i.ibb.co/pKdSb0L/Rectangle-2-5.png",
+      "title": "Software Engineering Basics",
+      "description": "Dive deep into the world of software engineering and learn to design, develop, and maintain robust, scalable software systems.",
+      "price": 49.99,
+      "duration": 4
+    },
+    {
+      "id": 9,
+      "cover_img": "https://i.ibb.co/LhcVGB7/Rectangle-3.png",
+      "title": "Basic Data Structure",
+      "description": "Explore the core concepts of data structures, including arrays, linked lists, and trees. Master the art of manipulating data efficiently.",
+      "price": 29.99,
+      "duration": 6
+    }
+  ]
+  
