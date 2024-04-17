@@ -24,8 +24,6 @@ The courses cards are design using grid layout and the layout is **responsive fo
 
 ## I have used 4 states in this project
 
-Dillinger uses a number of open source projects to work properly:
-
 - [useState in App.jsx](https://github.com/programming-hero-web-course2/my-course-roster-AskatAsh/blob/main/Course-Registration/src/App.jsx) - Used this state to store selected courses
 - [useState in AllCourses.jsx](https://github.com/programming-hero-web-course2/my-course-roster-AskatAsh/blob/main/Course-Registration/src/Components/AllCourses/AllCourses.jsx) - Used this state to store fetched course data
 - [usedState in CourseList.jsx](https://github.com/programming-hero-web-course2/my-course-roster-AskatAsh/blob/main/Course-Registration/src/Components/CourseList/CourseList.jsx) - Used two states in this component.
