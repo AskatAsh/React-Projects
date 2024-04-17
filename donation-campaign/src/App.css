@@ -1,0 +1,20 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+}
+.bg-image{
+  width: 100%;
+  height: 600px;
+  background: url('./assets/images/banner_image.webp');
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+.overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.90);
+}

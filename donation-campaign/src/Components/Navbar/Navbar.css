@@ -1,0 +1,22 @@
+a{
+    color: #0B0B0B;
+    font-weight: 500;
+    font-size: 1rem;
+    border-radius: 0;
+    /* margin-left: 20px; */
+}
+.active.active.active.active.active.active.active.active.active.active{
+    border-radius: 0;
+    color: #FF444A;
+    background-color: transparent;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    /* border-bottom: 1px solid #FF444A; */
+}
+.position{
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
